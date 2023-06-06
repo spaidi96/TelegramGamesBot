@@ -1,0 +1,9 @@
+C:\Users\spaid\AppData\Local\Temp\rider-publish1975233417869840582\TelegramGamesBot.exe
+C:\Users\spaid\AppData\Local\Temp\rider-publish1975233417869840582\appsettings.Development.json
+C:\Users\spaid\AppData\Local\Temp\rider-publish1975233417869840582\appsettings.json
+C:\Users\spaid\AppData\Local\Temp\rider-publish1975233417869840582\TelegramGamesBot.dll
+C:\Users\spaid\AppData\Local\Temp\rider-publish1975233417869840582\TelegramGamesBot.deps.json
+C:\Users\spaid\AppData\Local\Temp\rider-publish1975233417869840582\TelegramGamesBot.runtimeconfig.json
+C:\Users\spaid\AppData\Local\Temp\rider-publish1975233417869840582\TelegramGamesBot.pdb
+C:\Users\spaid\AppData\Local\Temp\rider-publish1975233417869840582\Newtonsoft.Json.dll
+C:\Users\spaid\AppData\Local\Temp\rider-publish1975233417869840582\Telegram.Bot.dll
